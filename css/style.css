@@ -1,0 +1,191 @@
+*{
+
+}
+body {
+    font-size: 18px;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+/*#fh5co-hero {
+    background-color: transparent;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+}*/
+
+.k{
+    /*border: 2px solid rgba(255, 255, 255, 0.5);*/
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    color: #f44336;
+
+
+}
+.k:hover{
+    background-color: skyblue;
+    color: #000000;
+    transition: 1s all;
+    opacity: 0.8;
+
+}
+
+
+
+.button1{
+    width: 350px;
+    background-color: #4CAF50;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button2{
+    width: 350px;
+    background-color:#008CBA;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button3{
+
+
+    background-color:#f44336;
+    border: none;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.8rem;
+    font-weight: 300;
+    color: white;
+
+    cursor: pointer;
+}
+.button2:hover {
+    background-color: skyblue;
+    color: #000000;
+    transition: 1s all;
+}
+.button1:hover {
+    background-color: skyblue;
+    color: #000000;
+    transition: 1s all;
+}
+.button3:hover {
+    background-color: skyblue;
+    color: #000000;
+    transition: 1s all;
+    opacity: 0.8;
+}
+.ff{
+    /*background: linear-gradient(90deg,transparent,darkcyan,transparent);*/
+    background-image: url("../images/imgAc 005.JPG ");
+    background-color: transparent;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 500px;
+
+}
+.container {
+
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.headr{
+    padding: 50px;
+}
+.nav{
+    margin: 0px;
+    text-align: left;
+    background: linear-gradient(90deg,darkcyan,transparent);
+
+    padding: 10px;
+    font: inherit;
+}
+.nav li{
+    display: inline;
+    margin-right: 10px;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+}
+/*.nav li:hover{
+
+    color: black;
+    transition: 1s all;
+}*/
+
+
+
+/*.container:before, .container:after {
+    content: " ";
+    display: table;
+}
+.container:after {
+    clear: both;
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+    overflow-x: hidden;
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+    padding-right:15px;
+    padding-left:15px
+}*/
+
+
+/*a, button { transition: all 0.3s ease; }
+a:hover,
+a:focus {
+    text-decoration: none;
+    outline: none;
+}*/
+
+.sty-image{
+    /*background: linear-gradient(90deg,transparent,darkcyan,transparent);*/
+    background-image: url("../images/imgBG5.JPG ");
+    background-color: transparent;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 500px;
+
+}
+.news-image{
+    /*background: linear-gradient(90deg,transparent,darkcyan,transparent);
+    background-image: url("../images/imgBG5.JPG ");*/
+    background-color: transparent;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 500px;
+
+}
